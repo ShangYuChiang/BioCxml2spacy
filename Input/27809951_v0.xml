@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>27809951</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Molecular characterization, expression analysis and RNAi knock-down of elongation factor 1a and 1y from Nilaparvata lugens and its yeast-like symbiont.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="71" length="19"/>
+        <text>elongation factor 1</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="104" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">56772</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="131" length="19"/>
+        <text>yeast-like symbiont</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>152</offset>
+      <text>In the present paper, four cDNAs encoding the alpha and gamma subunits of elongation factor 1 (EF-1) were cloned and sequenced from Nilaparvata lugens, named NlEF-1a, NlEF-1y, and its yeast-like symbiont (YLS), named YsEF-1a and YsEF-1y, respectively. Comparisons with sequences from other species indicated a greater conservation for EF-1a than for EF-1y. NlEF-1a has two identical copies. The deduced amino acid sequence homology of NlEF-1a and NlEF-1y is 96 and 64%, respectively, compared with Homalodisca vitripennis and Locusta migratoria. The deduced amino acid sequence homology of YsEF-1a and YsEF-1y is 96 and 74%, respectively, compared with Metarhizium anisopliae and Ophiocordyceps sinensis. Reverse transcription-quantitative polymerase chain reaction (RT-qPCR) analysis revealed that the expression level of NlEF-1a and NlEF-1y mRNA in hemolymph, ovary, fat body and salivary glands were higher than the midgut and leg tissue. YsEF-1a and YsEF-1y was highly expressed in fat body. The expression level of NlEF-1a was higher than that of NlEF-1y. Through RNA interference (RNAi) of the two genes, the mortality of nymph reached 92.2% at the 11th day after treatment and the ovarian development was severely hindered. The RT-qPCR analysis verified the correlation between mortality, sterility and the down-regulation of the target genes. The expression and synthesis of vitellogenin (Vg) protein in insects injected with NlEF-1a and NlEF-1y double-stranded RNA (dsRNA) was significantly lower than control groups. Attempts to knockdown the YsEF-1 genes in the YLS was unsuccessful. However, the phenotype of N. lugens injected with YsEF-1a dsRNA was the same as that injected with NlEF-1a dsRNA, possibly due to the high similarity (up to 71.9%) in the nucleotide sequences between NlEF-1a and YsEF-1a. We demonstrated that partial silencing of NlEF-1a and NlEF-1y genes caused lethal and sterility effect on N. lugens. NlEF-1y shares low identity with that of other insects and therefore it could be a potential target for RNAi-based pest management.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="226" length="19"/>
+        <text>elongation factor 1</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="247" length="4"/>
+        <text>EF-1</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="284" length="18"/>
+        <text>Nilaparvata lugens</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="310" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="319" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">56772</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="336" length="19"/>
+        <text>yeast-like symbiont</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">56772</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="357" length="3"/>
+        <text>YLS</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="509" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="587" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="599" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier"></infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="650" length="46"/>
+        <text>Homalodisca vitripennis and Locusta migratoria</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier">5530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="805" length="22"/>
+        <text>Metarhizium anisopliae</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier">72228</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="832" length="23"/>
+        <text>Ophiocordyceps sinensis</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="975" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="987" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1172" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1204" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier">MESH:D010049</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1340" length="7"/>
+        <text>ovarian</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1586" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1598" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">56772</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1725" length="3"/>
+        <text>YLS</text>
+      </annotation>
+      <annotation id="25">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1773" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="26">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1846" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="27">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1947" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="28">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2010" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="29">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2022" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+      <annotation id="30">
+        <infon key="identifier">108931</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2074" length="9"/>
+        <text>N. lugens</text>
+      </annotation>
+      <annotation id="31">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="2085" length="6"/>
+        <text>NlEF-1</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

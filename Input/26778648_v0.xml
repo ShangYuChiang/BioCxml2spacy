@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>26778648</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Expression and characterization of a recombinant i-type lysozyme from the harlequin ladybird beetle Harmonia axyridis.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="49" length="15"/>
+        <text>i-type lysozyme</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="74" length="25"/>
+        <text>harlequin ladybird beetle</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="100" length="17"/>
+        <text>Harmonia axyridis</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>119</offset>
+      <text>UNASSIGNED: Lysozymes are enzymes that destroy bacterial cell walls by hydrolysing the polysaccharide component of peptidoglycan. In insects, there are two classes of lysozymes, the c-type with muramidase activity and the i-type whose prototypical members from annelids and molluscs possess both muramidase and isopeptidase activities. Many insect genes encoding c-type and i-type lysozymes have been identified during genome and transcriptome analyses, but only c-type lysozymes have been functionally characterized at the protein level. Here we produced one of five i-type lysozymes represented in the immunity-related transcriptome of the invasive harlequin ladybird beetle Harmonia axyridis as recombinant protein. This was the only one containing the serine and histidine residues that are thought to be required for isopeptidase activity. This i-type lysozyme was recombinantly expressed in the yeast Pichia pastoris, but the purified protein was inactive in both muramidase and isopeptidase assays. Transcription and immunofluorescence analysis revealed that this i-type lysozyme is produced in the fat body but is not inducible by immune challenge. These data suggest that i-type lysozymes in insects may have acquired novel and as yet undetermined functions in the course of evolution.</text>
+      <annotation id="4">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="493" length="16"/>
+        <text>i-type lysozymes</text>
+      </annotation>
+      <annotation id="5">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="582" length="16"/>
+        <text>c-type lysozymes</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="687" length="16"/>
+        <text>i-type lysozymes</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="770" length="25"/>
+        <text>harlequin ladybird beetle</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier"></infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="796" length="17"/>
+        <text>Harmonia axyridis</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1300" length="16"/>
+        <text>i-type lysozymes</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>

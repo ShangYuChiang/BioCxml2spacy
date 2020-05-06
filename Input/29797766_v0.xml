@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE collection SYSTEM "BioC.dtd">
+<collection>
+  <source>PubTator</source>
+  <date/>
+  <key>BioC.key</key>
+  <document>
+    <id>29797766</id>
+    <infon key="tt_curatable">no</infon>
+    <infon key="tt_version">0</infon>
+    <infon key="tt_round">0</infon>
+    <passage>
+      <infon key="type">title</infon>
+      <offset>0</offset>
+      <text>Olfactory co-receptor Orco stimulated by Rice stripe virus is essential for host seeking behavior in small brown planthopper.</text>
+      <annotation id="1">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="0" length="21"/>
+        <text>Olfactory co-receptor</text>
+      </annotation>
+      <annotation id="2">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="22" length="4"/>
+        <text>Orco</text>
+      </annotation>
+      <annotation id="3">
+        <infon key="identifier">12331</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="41" length="17"/>
+        <text>Rice stripe virus</text>
+      </annotation>
+      <annotation id="4">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="101" length="23"/>
+        <text>small brown planthopper</text>
+      </annotation>
+    </passage>
+    <passage>
+      <infon key="type">abstract</infon>
+      <offset>126</offset>
+      <text>BACKGROUND: Laodelphax striatellus, the small brown planthopper (SBPH), is an economically important pest, besides sucking damage, which transmits rice viruses to cause severe damages to rice. In the process of virus transmission, the host orientation behavior of insect is mainly driven by olfaction. In this context, the molecular basis of olfaction in SBPH is of particular interest. RESULTS: Here, we identified the gene that encodes olfactory receptor co-receptor (Orco) and analyzed its expression profiles in Rice stripe virus (RSV)-infected and RSV-free SBPH. It was found that LstrOrco shared high identity with other Orcos from different order insects. LstrOrco was mainly expressed in the head of SBPH, and its expression was significantly stimulated by RSV-infection. The behavioral bioassay revealed that viruliferous SBPH might have a stronger olfactory and seeking ability for rice than RSV-free insect. After silencing of LstrOrco expression, the olfaction and seeking behavior of nymphs for rice seedlings was significantly inhibited, mainly in the increase of the  no response  percent and the prolongation of the response time. CONCLUSION: These results suggested that Orco played an important role in olfactory signaling and seeking behavior of SBPH, which provided a basic for future development of olfactory-based agriculture pest management strategies.  2018 Society of Chemical Industry.</text>
+      <annotation id="5">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="138" length="22"/>
+        <text>Laodelphax striatellus</text>
+      </annotation>
+      <annotation id="6">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="166" length="23"/>
+        <text>small brown planthopper</text>
+      </annotation>
+      <annotation id="7">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="191" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+      <annotation id="8">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="273" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="9">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="313" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="10">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="481" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+      <annotation id="11">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="564" length="30"/>
+        <text>olfactory receptor co-receptor</text>
+      </annotation>
+      <annotation id="12">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="596" length="4"/>
+        <text>Orco</text>
+      </annotation>
+      <annotation id="13">
+        <infon key="identifier">12331</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="642" length="17"/>
+        <text>Rice stripe virus</text>
+      </annotation>
+      <annotation id="14">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="688" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+      <annotation id="15">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="712" length="8"/>
+        <text>LstrOrco</text>
+      </annotation>
+      <annotation id="16">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="789" length="8"/>
+        <text>LstrOrco</text>
+      </annotation>
+      <annotation id="17">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="834" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+      <annotation id="18">
+        <infon key="identifier">MESH:D007239</infon>
+        <infon key="type">Disease</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="891" length="13"/>
+        <text>RSV-infection</text>
+      </annotation>
+      <annotation id="19">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="957" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+      <annotation id="20">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1018" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="21">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1064" length="8"/>
+        <text>LstrOrco</text>
+      </annotation>
+      <annotation id="22">
+        <infon key="identifier">4530</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1134" length="4"/>
+        <text>rice</text>
+      </annotation>
+      <annotation id="23">
+        <infon key="identifier"></infon>
+        <infon key="type">Gene</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1314" length="4"/>
+        <text>Orco</text>
+      </annotation>
+      <annotation id="24">
+        <infon key="identifier">195883</infon>
+        <infon key="type">Species</infon>
+        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
+        <location offset="1391" length="4"/>
+        <text>SBPH</text>
+      </annotation>
+    </passage>
+  </document>
+</collection>
