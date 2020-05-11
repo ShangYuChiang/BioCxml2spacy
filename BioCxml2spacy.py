@@ -1,7 +1,7 @@
 import xml.etree.cElementTree as ET
+import os
 
 def xml2spacy(tree):
-
         root = tree.getroot()
         training_data = []
         spacy_text=""
@@ -33,11 +33,18 @@ def annotation2entity(passages):
                                 passage_entities.append((start, end, entity_type))
         spacyd_passage = {"entities": passage_entities}
         return spacyd_passage
-                
-        
+                      
 if __name__ == "__main__":
-        tree = ET.parse('./input/10835480_v0.xml')
-        xml2spacy(tree)
+        filePath = './Input/'
+        allFileList = os.listdir(filePath)
         spacy_data = []
-        spacy_data.append(xml2spacy(tree))
-        print(spacy_data)
+        for file in allFileList:
+            filename = filePath+file
+            output = file[:-7]+"_out.txt"
+            tree = ET.parse(filename)
+            xml2spacy(tree)
+            spacy_data.append(xml2spacy(tree))
+        #print(spacy_data)
+        f_out = open('_Output.txt', 'w', encoding='utf-8')
+        f_out.write(str(spacy_data))
+        f_out.close()
