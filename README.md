@@ -36,81 +36,6 @@ The BioCxml format of the TeamTat's annotation
         <location offset="48" length="16"/>
         <text>migratory locust</text>
       </annotation>
-      <annotation id="3">
-        <infon key="identifier">7004</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="66" length="18"/>
-        <text>Locusta migratoria</text>
-      </annotation>
-    </passage>
-    <passage>
-      <infon key="type">abstract</infon>
-      <offset>172</offset>
-      <text>(abstract)</text>
-      <annotation id="4">
-        <infon key="identifier"></infon>
-        <infon key="type">Gene</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="225" length="17"/>
-        <text>apolipophorin-III</text>
-      </annotation>
-      <annotation id="5">
-        <infon key="identifier">7004</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="248" length="18"/>
-        <text>Locusta migratoria</text>
-      </annotation>
-      <annotation id="6">
-        <infon key="identifier"></infon>
-        <infon key="type">Gene</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="423" length="17"/>
-        <text>apolipophorin-III</text>
-      </annotation>
-      <annotation id="7">
-        <infon key="identifier">7130</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="450" length="16"/>
-        <text>tobacco hornworm</text>
-      </annotation>
-      <annotation id="8">
-        <infon key="identifier">7130</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="468" length="13"/>
-        <text>Manduca sexta</text>
-      </annotation>
-      <annotation id="9">
-        <infon key="identifier">7004</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="597" length="13"/>
-        <text>L. migratoria</text>
-      </annotation>
-      <annotation id="10">
-        <infon key="identifier">9606</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="969" length="9"/>
-        <text>mammalian</text>
-      </annotation>
-      <annotation id="11">
-        <infon key="identifier">9606</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="1159" length="9"/>
-        <text>mammalian</text>
-      </annotation>
-      <annotation id="12">
-        <infon key="identifier">9606</infon>
-        <infon key="type">Species</infon>
-        <infon key="updated_at">1980-01-01T00:00:00Z</infon>
-        <location offset="1234" length="9"/>
-        <text>mammalian</text>
-      </annotation>
     </passage>
   </document>
 </collection>
@@ -134,15 +59,6 @@ Install by command `pip install lxml`
 check by command   `pip list` to see whether lxml exists
 
 
-### Example:
-```python
-
-```
-### output
-```
-
-```
-
 ## Getting started step by step 
 
 - Step1 - Clone the repo to local   
@@ -150,7 +66,7 @@ check by command   `pip list` to see whether lxml exists
 git clone https://github.com/ShangYuChiang/BioCxml2spacy.git
 ```
 ```
-cd /
+cd / BioCxml2spacy
 ```
 
 - Step2 - Run BioCxml2spacy.py
